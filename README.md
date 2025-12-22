@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+⚡ I'm Álvaro, a Spanish student, currently studying a double degree in **Mathematics and Computer Science**. 
+
+🔭 I'm still learning to code, currently planning to develop both my frontend and backend skills, while also staying open to other areas as I discover what I want to specialize in. 
+
+🤔 In this profile I will upload the projects I work on throughout my learning journey!
+
 <!--
 **Navas05/Navas05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
